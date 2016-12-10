@@ -1,0 +1,19 @@
+CLINIC RESERVATION
+
+*RESERVATION
+  -Create/login account     3
+  -Day of Reservation       8
+  -Check Availability       8
+  -Reservation Code         3
+  
+*USERS
+  -Patient's info           3
+  -Last Check-up            2
+    -Dr. Name
+    -Status
+    
+*ADMIN
+  -Login                    3
+  -Admin CRUD               5
+  -Users CRUD               5
+  -Records                  5
